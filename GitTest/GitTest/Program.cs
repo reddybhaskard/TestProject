@@ -8,6 +8,7 @@ namespace GitTest
 {
     class Program
     {
+        //checking git version
         static void Main(string[] args)
         {
             //changes done by Bhaskar
