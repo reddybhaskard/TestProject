@@ -9,5 +9,6 @@ namespace GitTest
     class Class1
     {
         //introduction of new file
+        //class
     }
 }
